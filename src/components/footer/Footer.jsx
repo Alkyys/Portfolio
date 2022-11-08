@@ -45,7 +45,7 @@ const Footer = () => {
         </a>
       </div>
       <div className="footer_copyright">
-        <small>Make with ❤ and ☕</small>
+        <small>Make with ❤️ and ☕</small>
       </div>
     </footer>
   );
