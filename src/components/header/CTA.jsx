@@ -5,11 +5,10 @@ const CTA = () => {
   return (
     <div className="cta">
       <a href={CV} download className="btn">
-        Download CV
+        Téléchager mon CV
       </a>
-      <a herf="#contact" className="btn btn-primary">
-        {" "}
-        Let's Talk
+      <a href="#contact" className="btn btn-primary">
+        Parlons en
       </a>
     </div>
   );
