@@ -6,7 +6,7 @@ import { BiCheck } from "react-icons/bi";
 const Services = () => {
   return (
     <section id="services">
-      <h5>Ce que j'ai a proposer</h5>
+      <h5>Ce que j'ai à proposer</h5>
       <h2>Services</h2>
       <div className="container services_container">
         <article className="service">
@@ -32,7 +32,7 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Création de charte graphique</p>
+              <p>Création de chartes graphiques</p>
             </li>
           </ul>
         </article>
@@ -55,7 +55,7 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Stockage de donnée</p>
+              <p>Stockage de données</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
@@ -82,7 +82,7 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Rédation de carhier des charges</p>
+              <p>Rédaction de cahier des charges</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />

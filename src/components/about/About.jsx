@@ -34,14 +34,15 @@ const About = () => {
             </article>
             <article className="about_card">
               <VscFolderLibrary className="about_icon" />
-              <h5>Projet</h5>
+              <h5>Projets</h5>
               <small>8</small>
             </article>
           </div>
-          <p>
-            Apres avoir terminé mon Master en alternace mi-septemble je suis a
-            la recheche d'une nouvelle avanture
-          </p>
+          {/* <p>
+            Apres avoir terminé mon Master en alternace mi-septemble 2022, je suis à
+            la recheche d'une nouvelle aventure
+          </p> */}
+          <p></p>
           <a href="#contact" className="btn btn-primary">
             Parlons en
           </a>
